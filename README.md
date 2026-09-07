@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Afnan
 
-<!--
-**afnan-altamimi/afnan-altamimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I've been working as a software developer for 5+ years, mostly building things with Python and backend Business systems.
 
-Here are some ideas to get you started:
+🎓 I'm currently doing my MSc in Data Science at NTU Singapore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Right now I'm learning my way deeper into Data Science & AI.
+
+🐍 Python is still my comfort zone.
+
+🛠️ Most of the things I've built over the years are sitting in private work repos, so I'm finally starting to build things in public.
+
+✨ Let's see what ends up here.
