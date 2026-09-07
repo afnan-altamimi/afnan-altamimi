@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Afnan
 
-💻 I've been working as a software developer for 5+ years, mostly building things with Python and backend Business systems.
+💻 I've been working as a software developer for 5+ years, mostly building things with Python and backend business systems.
 
 🎓 I'm currently doing my MSc in Data Science at NTU Singapore.
 
-🧠 Right now I'm learning my way deeper into Data Science & AI.
+🧠 Right now I'm getting deeper into Data Science & AI.
 
 🐍 Python is still my comfort zone.
 
